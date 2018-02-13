@@ -1,0 +1,3 @@
+#!/bin/bash
+rm /var/mobile/Library/Preferences/anchor.license
+echo "Thank you for purchasing Anchor. If you didn't purchase it... shame on you ლ( ¤ 益 ¤ )┐"

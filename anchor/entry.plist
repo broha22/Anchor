@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = anchor;
+	cell = PSLinkCell;
+	detail = AnchorListController;
+	icon = anchor-icon.png;
+	isController = 1;
+	label = Anchor;
+    };
+}

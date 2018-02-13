@@ -1,0 +1,10 @@
+Package: com.broganminer.anchor
+Name: Anchor
+Depends: mobilesubstrate, com.chpwn.iconsupport
+Version: 2.0.4
+Architecture: iphoneos-arm
+Description: Keep your icons where you want them.
+Maintainer: Brogan Miner <broganminer22@gmail.com>
+Author: Brogan Miner <broganminer22@gmail.com>
+Section: Tweaks
+Depiction: http://broganminer.com/repo/depictions/anchor
